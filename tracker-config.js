@@ -1,1 +1,1 @@
-window.TRACKER_ENDPOINT = "https://remains-athletics-upgrade-electoral.trycloudflare.com"; 
+window.TRACKER_ENDPOINT = "https://parcel-uniform-gravity-rice.trycloudflare.com"; 
