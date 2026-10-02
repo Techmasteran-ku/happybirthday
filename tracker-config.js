@@ -1,1 +1,1 @@
-window.TRACKER_ENDPOINT = "https://only-artistic-towers-public.trycloudflare.com"; 
+window.TRACKER_ENDPOINT = "https://wayne-quotations-buttons-introductory.trycloudflare.com/"; 
