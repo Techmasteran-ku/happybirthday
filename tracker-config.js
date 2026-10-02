@@ -1,1 +1,1 @@
-window.TRACKER_ENDPOINT = "https://satin-origin-identity-overhead.trycloudflare.com"; 
+window.TRACKER_ENDPOINT = "https://only-artistic-towers-public.trycloudflare.com"; 
